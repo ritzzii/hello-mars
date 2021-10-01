@@ -1,10 +1,10 @@
 # hello-mars
 JustARepo1
 
-Hello members of the Mars! This is Capt. Ritzzii from the planet Sanctum. I am here on a mission 'Eligius-I'.
+Hello members of the Mars! This is Capt. Ritzzii from planet Sanctum. I'm here on a mission 'Eligius-I'.
 ______________________________________________________________________________________________________________
 
-**Here's some basic shizz:** 
+**Here'z some basic shizz:** 
 
 **Version Control**: A system that allows the developers to save and track the changes made to a project.
 
