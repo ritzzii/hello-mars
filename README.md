@@ -12,6 +12,20 @@ ________________________________________________________________________________
 
 **GITHUB**: GitHub is a cloud based repository hosting service that allows developers to share the local code with the world.
 
+**Gen Note**:  Each of the pull requests we submit for hackathons should contribute to an existing repo in a way that helps the projects to thrive.
+______________________________________________________________________________________________________________
+
+**Git Fork and Clone**: Getting the forked repo on to your local machine: Use terminal and give the command **git clone "paste the web URL"** 
+
+1. Identify the repo you'd like to edit. 
+2. Take a copy of that repo onto our GITHub account by **Forking** and then get onto your local machine by **cloning** 
+   (Enter the command **git clone "paste_URL"** on some terminal of our choice). 
+3. Then make and submit a change using **git add** command. 
+4. To know the status of or changes made in the branch, use **git status** command. 
+5. We see that our file/the change has been added but is not committed as a change. Now once you are confident with the changes you'd made and would like to submit this change    for consideration of those who maintain this project - Execute the command **git commit -m "message_to_be_added_here_within_inverted_commas"** . 
+6. Now, in this way, everyone can be informed of changes that are made along with your identity. 
+7. Finally, to push the changes from local machine to the remote repository on GITHub execute **git push** command. 
+
 ______________________________________________________________________________________________________________
 1. On GitHub, saved changes are called commits. 
 2. Each commit has an associated commit message, which is a description explaining why a particular change was    made. 
