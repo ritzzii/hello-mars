@@ -1,7 +1,7 @@
 # hello-mars
 JustARepo1
 
-Hello members of the Mars! This is Capt. Ritzzii from planet Sanctum. I'm here on a mission 'Eligius-I'.
+Hello members of the _Mars_! This is _Capt. Ritzzii_ from planet _Sanctum_. I'm here on a mission '_Eligius-I_'.
 ______________________________________________________________________________________________________________
 
 **Here'z some basic shizz:** 
