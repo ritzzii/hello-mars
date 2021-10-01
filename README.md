@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 **GIT**: A version control system used to manage developer projects of all sizes (created in 2005 to help developers contribute and share code in a way that is fast, efficient and          inexpensive).
 
-**GITHUB**: Git Hub is a cloud based repository hosting service that allows developers to share the local code with the world.
+**GITHUB**: GitHub is a cloud based repository hosting service that allows developers to share the local code with the world.
 
 ______________________________________________________________________________________________________________
 1. On GitHub, saved changes are called commits. 
