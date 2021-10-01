@@ -5,7 +5,10 @@ Hello members of the Mars! This is Capt. Ritzzii from the planet Sanctum. I am h
 ______________________________________________________________________________________________________________
 
 **Here's some basic shizz:** 
+Version Control: A system that allows the developers to save and track the changes made to a project.
+GIT: A version control system used to manage developer projects of all sizes (created in 2005 to help developers contribute and share code in a way that is fast, efficient and inexpensive.)
 
+______________________________________________________________________________________________________________
 1. On GitHub, saved changes are called commits. 
 2. Each commit has an associated commit message, which is a description explaining why a particular change was    made. 
 3. **Commit messages** capture the history of your changes, so other contributors can understand what you’ve      done and why.
